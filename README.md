@@ -1,0 +1,2 @@
+# setcove
+nobody perfect
